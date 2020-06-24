@@ -1,0 +1,2 @@
+# aprendendoPython
+Scripts de aprendizado
